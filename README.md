@@ -1,6 +1,6 @@
 # ChainBase - a fast version controlled, transactional database 
 
-  ChainBase is designed to meet the demanding requirments of blockchain applications, but is suitable for use
+  ChainBase is not only designed to meet the demanding requirments of blockchain applications, but is suitable for use
   in any application that requires a robust transactional database with the ability have near-infinate levels of undo
   history.
 
