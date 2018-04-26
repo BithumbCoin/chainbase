@@ -19,6 +19,13 @@
   - [Boost](http://www.boost.org/) 
   - CMake Build Process
   - Supports Linux, Mac OS X  (no Windows Support)
+  
+##  Compilation steps
+  - Linux and compiling environment: ubuntu 16.04,cmake 3.11, boost 1.58(using apt-get install libboost-dev)
+  - cd chainbase, and mkdir build
+  - cmake ..
+  - make(In order to compile chainbase under c++11 standard, we need add add_compile_options(-std=c++11))
+  
 
 ## Example Usage 
 
